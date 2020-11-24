@@ -26,7 +26,7 @@ Using descriptive activity names to name the activities in the data set
   Entire numbers in code column of the CleanData replaced with corresponding activity taken from second column of the activities variable
 
 Appropriately labels the data set with descriptive variable names
-code column in TidyData was renamed to activities
+code column in CleanData was renamed to activities
  Every Acc in column’s name replaced by Accelerometer
  Every Gyro in column’s name replaced by Gyroscope
  Every BodyBody in column’s name replaced by Body
